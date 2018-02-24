@@ -1,0 +1,8 @@
+server:
+  port: 8081
+#  context-path: /hello
+
+girl:
+  name: KK
+  height: 160
+  weight: 100
